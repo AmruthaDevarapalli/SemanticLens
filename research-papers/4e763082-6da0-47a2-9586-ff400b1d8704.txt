@@ -1,0 +1,6 @@
+title: Inductive Sensor for Measuring High Frequency Partial Discharges Within Electrical Insulation
+year: 2009
+authors: ['Guillermo Robles', 'J. M. Martinez-Tarifa', 'M. V. Rojas-Moreno', 'Javier Sanz-Feito']
+venue: IEEE Transactions on Instrumentation and Measurement
+id: 4e763082-6da0-47a2-9586-ff400b1d8704
+abstract: Partial discharges are not only a consequence but a symptom of insulation degradation in electrical equipment. Partial discharges are revealed outside the insulation as very narrow high-frequency pulses that were superimposed to the grid frequency high-level voltages or currents and thus are fairly hard to detect. This paper presents an application of a new inductively coupled sensor that allows these signals to be measured in an accurate inexpensive manner. The sensor model and its frequency and geometry-dependent behavior are studied to increase the probe sensitivity as much as possible. Its measuring capability in real insulation systems that were subjected to high partial discharge activity will be tested.

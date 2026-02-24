@@ -1,0 +1,6 @@
+title: Shape-similarity search of 3D models by using enhanced shape functions
+year: 2005
+authors: ['Ryutarou Ohbuchi', 'Takahiro Minamitani', 'Tsuyoshi Takei']
+venue: Journal of Computer Applications in Technology
+id: 4e780667-9765-49d6-bfe1-774b209095d5
+abstract: We propose a pair of shape features for searching surface-based 3D shape models based on their shape similarity. Either of the features is computed by first converting an input surface based model into an oriented point set model and then computing a joint 2D histogram of distance and orientation of pairs of points. Advantages of the shape features are: they can be computed for non-solid or non-manifold models; they are invariant to similarity transformation; and they are tolerant of topological and geometrical errors and degeneracies. Experiments showed that, with only a modest increase in computational cost, our shape features achieved significant performance improvement over Osada's D2, on which our features are based.

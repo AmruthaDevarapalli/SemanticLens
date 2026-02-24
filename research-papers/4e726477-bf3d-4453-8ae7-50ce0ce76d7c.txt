@@ -1,0 +1,6 @@
+title: Shock-Vortex Interactions at High Mach Numbers
+year: 2003
+authors: ['A. Rault', 'Guillaume Chiavassa', 'Rosa Donat']
+venue: Journal of Scientific Computing
+id: 4e726477-bf3d-4453-8ae7-50ce0ce76d7c
+abstract: We perform a computational study of the interaction of a planar shock wave with a cylindrical vortex. We use a particularly robust High Resolution Shock Capturing scheme, Marquina's scheme, to obtain high quality, high resolution numerical simulations of the interaction. In the case of a very-strong shock/vortex encounter, we observe a severe reorganization of the flow field in the downstream region, which seems to be due mainly to the strength of the shock. The numerical data is analyzed to study the driving mechanisms for the production of vorticity in the interaction.

@@ -1,0 +1,6 @@
+title: Recent improvements on Microsoft's trainable text-to-speech system-Whistler
+year: 1997
+authors: ['Xuedong Huang', 'Alex Acero', 'Hsiao-Wuen Hon', 'Yun-Cheng Ju', 'Jingsong Liu', 'Scott Meredith', 'Mike Plumpe']
+venue: international conference on acoustics, speech, and signal processing
+id: 4e685304-4380-42d9-b131-883cd5f8351a
+abstract: The Whistler text-to-speech engine was designed so that we can automatically construct the model parameters from training data. This paper focuses on the improvements on prosody and acoustic modeling, which are all derived through the use of probabilistic learning methods. Whistler can produce synthetic speech that sounds very natural and resembles the acoustic and prosodic characteristics of the original speaker. The underlying technologies used in Whistler can significantly facilitate the process of creating generic TTS systems for a new language, a new voice, or a new speech style. Whisper TTS engine supports Microsoft Speech API and requires less than 3 MB of working memory.

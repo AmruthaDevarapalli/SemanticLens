@@ -1,0 +1,6 @@
+title: Statistical Modeling and Estimation of Censored Pathloss Data
+year: 2015
+authors: ['Carl Gustafson', 'Taimoor Abbas', 'David Bolin', 'Fredrik Tufvesson']
+venue: IEEE Wireless Communications Letters
+id: 4e701920-c42b-4ade-99fd-745a497a193d
+abstract: Pathloss is typically modeled using a log-distance power law with a large-scale fading term that is log-normal. However, the received signal is affected by the dynamic range and noise floor of the measurement system used to sound the channel, which can cause measurement samples to be truncated or censored. If the information about the censored samples is not included in the estimation method, as in ordinary least squares estimation, it can result in biased estimation of both the pathloss exponent and the large scale fading. This can be solved by applying a Tobit maximum-likelihood estimator, which provides consistent estimates for the pathloss parameters. This letter provides information about the Tobit maximum-likelihood estimator and its asymptotic variance under certain conditions.

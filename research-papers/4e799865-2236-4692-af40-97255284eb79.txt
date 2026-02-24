@@ -1,0 +1,6 @@
+title: Soft Demapping and Iterative Decoding for Satellite Communications
+year: 2007
+authors: ['Simone Morosi', 'Romano Fantacci', 'E. Del Re', 'Rosalba Suffritti']
+venue: international conference on communications
+id: 4e799865-2236-4692-af40-97255284eb79
+abstract: In this paper an original detection strategy for satellite digital broadcasting communications is defined; particularly, we consider the DVB-S2 system, which is proposed as a development of the DVB systems and exploits iterative decoding and higher order modulation. The proposed approach relies on the use of the information which can be obtained by proper soft demapping schemes. Moreover, we introduce an original receiver which is based on iterative demapping and decoding. The adoption of these strategies permits a remarkable performance gain and an improvement of the system throughput.

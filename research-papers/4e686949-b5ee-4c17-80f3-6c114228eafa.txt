@@ -1,0 +1,6 @@
+title: Characterizing conflicts in fair division of indivisible goods using a scale of criteria
+year: 2016
+authors: ['Sylvain Bouveret', 'Michel Lemaître']
+venue: Autonomous Agents and Multi-Agent Systems
+id: 4e686949-b5ee-4c17-80f3-6c114228eafa
+abstract: We investigate five different fairness criteria in a simple model of fair resource allocation of indivisible goods based on additive preferences. We show how these criteria are connected to each other, forming an ordered scale that can be used to characterize how conflicting the agents' preferences are: for a given instance of a resource allocation problem, the less conflicting the agents' preferences are, the more demanding criterion this instance is able to satisfy, and the more satisfactory the allocation can be. We analyze the computational properties of the five criteria, give some experimental results about them, and further investigate a slightly richer model with $$k$$k-additive preferences.

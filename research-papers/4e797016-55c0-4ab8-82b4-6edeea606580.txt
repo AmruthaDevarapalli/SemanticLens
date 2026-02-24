@@ -1,0 +1,6 @@
+title: Actuating a simple 3D passive dynamic walker
+year: 2004
+authors: ['Russ Tedrake', 'T.W. Zhang', 'Ming-fai Fong', 'H. S. Seung']
+venue: international conference on robotics and automation
+id: 4e797016-55c0-4ab8-82b4-6edeea606580
+abstract: The passive dynamic walker described in this paper is a robot with a minimal number of degrees of freedom which is still capable of stable 3D dynamic walking. First, we present the reduced-order dynamic models used to tune the characteristics of the robot's passive gait. Our sagittal plane model is closely related to the compass gait model, but the steady state trajectory passively converges from a much larger range of initial conditions. We then experimentally quantify the stability of the mechanical device. Finally, we present an actuated version of the robot and some preliminary active control strategies. The control problem for the actuated version of the robot is interesting because although it is theoretically challenging (4 degrees of under-actuation), the mechanical design of the robot made it relatively easy to create controllers which allowed the robot to walk stably on flat terrain and even up a small slope.

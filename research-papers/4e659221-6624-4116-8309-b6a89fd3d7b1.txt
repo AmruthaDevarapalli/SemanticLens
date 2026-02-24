@@ -1,0 +1,6 @@
+title: Possibilistic reasoning—a mini-survey and uniform semantics
+year: 1996
+authors: ['Churn-Jung Liau', 'Bertrand I-Peng Lin']
+venue: Artificial Intelligence
+id: 4e659221-6624-4116-8309-b6a89fd3d7b1
+abstract: In this paper, we survey some quantitative and qualitative approaches to uncertainty management based on possibility theory and present a logical framework to integrate them. The semantics of the logic is based on the Dempster’s rule of conditioning for possibility theory. It is then shown that classical modal logic, conditional logic, possibilistic logic, quantitative modal logic and qualitative possibilistic logic are all sublogics of the presented logical framework. In this way, we can formalize and generalize some well-known results about possibilistic reasoning in a uniform semantics. Moreover, our uniform framework is applicable to nonmonotonic reasoning, approximate consequence relation formulation, and partial consistency handling.

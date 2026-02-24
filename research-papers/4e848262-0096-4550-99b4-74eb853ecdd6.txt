@@ -1,0 +1,6 @@
+title: GSPSummary: a graph-based sub-topic partition algorithm for summarization
+year: 2008
+authors: ['Jin Zhang', 'Xueqi Cheng', 'Hongbo Xu']
+venue: asia information retrieval symposium
+id: 4e848262-0096-4550-99b4-74eb853ecdd6
+abstract: Multi-document summarization (MDS) is a challenging research topic in natural language processing. In order to obtain an effective summary, this paper presents a novel extractive approach based on graph-based sub-topic partition algorithm (GSPSummary). In particular, a sub-topic model based on graph representation is presented with emphasis on the implicit logic structure of the topic covered in the document collection. Then, a new framework of MDS with sub-topic partition is proposed. Furthermore, a novel scalable ranking criterion is adopted, in which both word based features and global features are integrated together. Experimental results on DUC2005 show that the proposed approach can significantly outperform existing approaches of the top performing systems in DUC tasks.

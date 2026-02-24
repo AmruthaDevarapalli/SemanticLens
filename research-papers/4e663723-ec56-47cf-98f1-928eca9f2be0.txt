@@ -1,0 +1,6 @@
+title: Pedagogical practices and ICT use around the world: Findings from the IEA international comparative study SITES2006
+year: 2009
+authors: ['Tjeerd Plomp', 'Joke Voogt']
+venue: Education and Information Technologies
+id: 4e663723-ec56-47cf-98f1-928eca9f2be0
+abstract: This special issue presents a number of secondary analyses of data collected in 2006 in the Second Information Technology in Education Study (SITES 2006). This study is the last of a number of international comparative surveys on information and communication technology (ICT) in education conducted under auspices of the International Association for the Evaluation of Educational Achievement (IEA). After summarizing the aims and scope of previous studies, the aims of SITES 2006 as well as key aspects of the research design are summarized. This is followed by a brief abstract of each of the articles included in this special issue. Three articles discuss international findings of the study and also findings from three participating education systems (South Africa, Denmark, Hong Kong SAR) are presented.

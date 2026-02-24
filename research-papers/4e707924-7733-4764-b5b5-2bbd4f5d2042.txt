@@ -1,0 +1,6 @@
+title: A framework and method for hierarchical test generation
+year: 1992
+authors: ['John D. Calhoun', 'Franc Brglez']
+venue: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+id: 4e707924-7733-4764-b5b5-2bbd4f5d2042
+abstract: The authors present an algorithm for hierarchical test generation based on module-oriented decision making (MODEM). The algorithm deals with combinational logic modules and the traditional single-stuck-at model. Modules and faults are captured at the function as well as the gate level. The benefits of hierarchy are realized by introducing a generic module representation and the concepts of a dynamic netlist and a dynamic calculus. The authors present the key elements of MODEM: the framework and fault targeting strategy, the module characterization, and a notation and calculus for module-oriented decision making. They conclude with a high-level view of MODEM implementation and experimental results on a variety of hierarchical benchmarks. >

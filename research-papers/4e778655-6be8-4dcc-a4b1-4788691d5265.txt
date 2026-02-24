@@ -1,0 +1,6 @@
+title: A distributed deadlock detection and resolution algorithm and its correctness proof
+year: 1988
+authors: ['Ahmed K. Elmagarmid', 'Neelam Soundararajan', 'Ming T. Liu']
+venue: IEEE Transactions on Software Engineering
+id: 4e778655-6be8-4dcc-a4b1-4788691d5265
+abstract: The key idea of the algorithm is to let one transaction controller be in charge of all transactions in a set of interacting transactions. Two transactions are interacting if they are both interested in (accessing) the same resource. In addition, the controller is in charge of all the resources allocated to any of the transactions in the set. Having one controller in charge of all the transactions in a set of interacting transactions and all the resources allocated to them makes it easier to detect deadlocks and avoid them. The main problem dealt with is how a controller takes charge of another transaction when the transaction tries to access one of the resources currently in the control of the controller and how a controller releases a transaction back to its original controller when the transaction is no longer interested in any of the resources in which one or more of the other transactions are also interested. Communicating sequential processes (CSP) is used to code the algorithm. The correctness of the algorithm is proved in a semiformal manner. >

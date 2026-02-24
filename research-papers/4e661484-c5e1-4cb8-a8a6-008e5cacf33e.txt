@@ -1,0 +1,6 @@
+title: ERP System Implementation in Make-to-Order SMEs: An Exploratory Case Study
+year: 2011
+authors: ['Ondrej Zach', 'Dag H. Olsen']
+venue: hawaii international conference on system sciences
+id: 4e661484-c5e1-4cb8-a8a6-008e5cacf33e
+abstract: The purpose of this paper is to investigate the issue of Enterprise Resource Planning (ERP) system implementation in the context of Make-To-Order (MTO) Small and Medium-size Enterprises (SMEs). No prior study has investigated the whole ERP implementation process in MTO SMEs. Because of the special requirements of both the SME and the MTO context, ERP implementations under these conditions are challenging. We investigate how these organizational characteristics influence the implementation of an ERP system. This study is part of a larger research project to investigate ERP implementation issue in SMEs. We present the empirical findings from an exploratory case study of an ERP implementation in a manufacturing MTO SME. The study provides a valuable insight into issue of ERP implementation in MTO SME sector. The findings are further discussed in a broader context and propositions for further research are presented.

@@ -1,0 +1,6 @@
+title: Computerized classification of temporomandibular joint sounds
+year: 2000
+authors: ['Dragan Djurdjanovic', 'Sven Widmalm', 'William J. Williams', 'Christopher K. H. Koh', 'Yang Kp']
+venue: IEEE Transactions on Biomedical Engineering
+id: 4e707572-b13a-46c3-915b-6782d0ff62d8
+abstract: Sounds, such as eliciting and/or crepitation, evoked in the temporomandibular (jaw) joint during function may indicate pathology. Analysis of the reduced interference time-frequency distribution of these sounds is of diagnostic value. However, visual evaluation is expensive and error prone, and there is, thus, a need for automated analysis. The aim of this study was to find the optimal signal representation and pattern recognition method for computerized classification of temporomandibular joint sounds. Concepts of time-shift invariance with and without scale invariance were employed and mutually compared. The automated analysis methods provided classification results that were similar to previous visual classification of the sounds. It was found that the classifier performance was significantly improved when scale invariance was omitted. This behavior occurred because scale invariance interfered with the frequency content of the signal. Therefore, scale invariance should not be pursued in the classification scheme employed in this study.

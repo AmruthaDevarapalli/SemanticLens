@@ -1,0 +1,6 @@
+title: Exploring the space of a human action
+year: 2005
+authors: ['Yaser Sheikh', 'Mumtaz Sheikh', 'Mubarak Shah']
+venue: international conference on computer vision
+id: 4ab3a98c-3620-47ec-b578-884ecf4a6206
+abstract: One of the fundamental challenges of recognizing actions is accounting for the variability that arises when arbitrary cameras capture humans performing actions. In this paper, we explicitly identify three important sources of variability: (1) viewpoint, (2) execution rate, and (3) anthropometry of actors, and propose a model of human actions that allows us to investigate all three. Our hypothesis is that the variability associated with the execution of an action can be closely approximated by a linear combination of action bases in joint spatio-temporal space. We demonstrate that such a model bounds the rank of a matrix of image measurements and that this bound can be used to achieve recognition of actions based only on imaged data. A test employing principal angles between subspaces that is robust to statistical fluctuations in measurement data is presented to find the membership of an instance of an action. The algorithm is applied to recognize several actions, and promising results have been obtained.

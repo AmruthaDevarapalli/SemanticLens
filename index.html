@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🔬 SemanticLens — Research Paper Search</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1 class="title">🔬 SemanticLens</h1>
+            <p class="subtitle">🔍 Semantic Search on Research Papers</p>
+        </header>
+
+        <div class="search-section">
+            <div class="search-box">
+                <input
+                    type="text"
+                    id="searchInput"
+                    placeholder="🔎 Enter your search query..."
+                    autocomplete="off"
+                />
+                <button id="searchBtn" onclick="performSearch()">
+                    🚀 Search
+                </button>
+            </div>
+            <p class="hint">💡 Try: "machine learning optimization", "network security attacks", "natural language processing"</p>
+        </div>
+
+        <div id="loader" class="loader hidden">
+            <div class="spinner"></div>
+            <p>🔄 Searching through research papers...</p>
+        </div>
+
+        <div id="error" class="error hidden"></div>
+
+        <div id="results" class="results"></div>
+    </div>
+
+    <script src="/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+📊 Computing embeddings for research papers...
+📄 Found 50 papers to process
+🔄 Loading Qwen/Qwen3-Embedding-0.6B model...
+Loading weights: 100%|█████████████████████████████████████████████████████████████████| 310/310 [00:00<00:00, 4699.52it/s]
+✅ Model loaded successfully!
+Traceback (most recent call last):
+  File "C:\HW\git\SemanticLens\app.py", line 179, in <module>
+    generate_embeddings(recompute=args.recompute)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\HW\git\SemanticLens\app.py", line 82, in generate_embeddings
+    vector = compute_embedding(text_for_embedding)
+  File "C:\HW\git\SemanticLens\app.py", line 40, in compute_embedding
+    embedding = outputs.last_hidden_state[:, 0, :].squeeze().numpy()
+TypeError: Got unsupported ScalarType BFloat16

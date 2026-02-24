@@ -1,0 +1,6 @@
+title: A comparison of number-of-rain-days estimation techniques for continental hydrological modelling
+year: 2007
+authors: ['Elias Symeonakis', 'Rogerio Bonifacio', 'Nicholas Drake']
+venue: international geoscience and remote sensing symposium
+id: 4e674702-3230-45d5-b8c7-1aadba745bc0
+abstract: The number of rain-days per dekad (NRDD), a parameter of a modification of the widely used Soil Conservation Service (SCS) model, is estimated here over sub-Saharan Africa using two techniques: indicator kriging of rain-gauge measurements, and a method based on logistic regression between meteosat cold cloud duration (CCD) images and gauge measurements. The methods were assessed using a very dense validation dataset. The results show that the interpolation technique scores better k-statistic values but, the Z-statistic applied to compare their relative performance suggests that their difference is insignificant. It is suggested that a combination of both techniques in a single method should provide the solution to a more precise NRDD estimation.

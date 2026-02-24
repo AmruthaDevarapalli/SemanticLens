@@ -1,0 +1,6 @@
+title: Path protection with pre-identification for MPLS networks
+year: 2005
+authors: ['Dan Wang', 'Funda Ergün']
+venue: international workshop on quality of service
+id: 4e704503-f3bd-4c6a-9266-52e8f2a5c591
+abstract: Current approaches to providing robust network connections which are tolerant to failures involve restoration schemes which mainly focus on reserving backup paths. In this paper we propose a technique for which avoids the extra cost for reserving, by pre-identifying (but not reserving) the backup paths. We present and analyze an algorithm to solve this problem and study a practical special case in detail. Through simulations we show that our model is significantly more cost-efficient than backup path reservation. We also show how this model can fit into the MPLS architecture

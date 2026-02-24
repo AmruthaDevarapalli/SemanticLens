@@ -1,0 +1,6 @@
+title: Etoys for One Laptop Per Child
+year: 2009
+authors: ['Bert Freudenberg', 'Yoshiki Ohshima', 'Scott Wallace']
+venue: conference on creating, connecting and collaborating through computing
+id: 4e827938-98bb-4132-aedf-f7dc7523695a
+abstract: We present an overview of the “OLPC Etoys” system, describe the intensive two-year development effort that produced the system, and discuss lessons learned. OLPC Etoys is an end-user authoring system for children, which was chosen to be distributed with the OLPC XO laptops at an early stage of the OLPC project.Since we planned to derive OLPC Etoys by evolving an existing, mature system (“Squeakland”), it was expected to be a relatively straightforward undertaking. However, the OLPC XO platform’s special hardware characteristics, the evolution of the Sugar software stack, and the fundamentally international and multilingual nature of the project, all conspired to make the development effort challenging.Over the two-year course of the project, we successfully kept up with the challenges, and delivered usable Etoys systems for every OLPC release. We steadily improved the UI, added a few high-leverage features, and fixed bugs, with a small and widely-distributed team and with help from the community.

@@ -1,0 +1,6 @@
+title: Pure Prolog Execution in 21 Rules
+year: 2003
+authors: ['Marija Kulas']
+venue: arXiv: Programming Languages
+id: 4e789324-cd20-4521-9649-eae4950f7ebd
+abstract: A simple mathematical definition of the 4-port model for pure Prolog is given. The model combines the intuition of ports with a compact representation of execution state. Forward and backward derivation steps are possible. The model satisfies a modularity claim, making it suitable for formal reasoning.

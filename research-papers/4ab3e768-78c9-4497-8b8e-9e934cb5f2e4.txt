@@ -1,0 +1,6 @@
+title: Applying BCMP multi-class queueing networks for the performance evaluation of hierarchical and modular software systems
+year: 2015
+authors: ['Simonetta Balsamo', 'Gian–Luca Dei Rossi', 'Andrea Marin']
+venue: International Journal of Computer Aided Engineering and Technology
+id: 4ab3e768-78c9-4497-8b8e-9e934cb5f2e4
+abstract: Queueing networks with multiple classes of customers play a fundamental role for evaluating the performance of both software and hardware architectures. The main strength of product–form models, in particular of BCMP queueing networks, is that they combine a flexible formalism with efficient analysis techniques and solution algorithms. In this paper we provide an algorithm that starting from a high–level description of a system, and from the definition of its components in terms of interacting sub–systems, computes a multiple–class and multiple–chain BCMP queueing network. We believe that the strength of this approach is twofold. First, the modeller deals with simplified models, which are defined in a modular and hierarchical way. Hence, we can carry on sensitivity analysis that may easily include structural changes (and not only on the time parameters). Second, maintaining the product–form property allows one to derive the average system performance indices very efficiently. The paper also discusses the ...

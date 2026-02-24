@@ -1,0 +1,6 @@
+title: Generalized upper bounds on the minimum distance of PSK block codes
+year: 2015
+authors: ['Efraim Laksman', 'Håkan Lennerstad', 'Magnus Nilsson']
+venue: Ima Journal of Mathematical Control and Information
+id: 4ab3b585-82b4-4207-91dd-b6bce7e27c4e
+abstract: This paper generalizes previous optimal upper bounds on the minimum Euclidean distance for phase shift keying (PSK) block codes, that are explicit in three parameters: alphabet size, block length a ...

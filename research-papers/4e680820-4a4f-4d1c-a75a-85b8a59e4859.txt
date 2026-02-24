@@ -1,0 +1,6 @@
+title: CSIEC (computer simulator in educational communication): a virtual context-adaptive chatting partner for foreign language learners
+year: 2004
+authors: ['Jiyou Jia']
+venue: international conference on advanced learning technologies
+id: 4e680820-4a4f-4d1c-a75a-85b8a59e4859
+abstract: In this paper we present an innovative intelligent Web-based computer-aided instruction system for foreign language learning: CSIEC (computer simulator in educational communication). After short summarizing of the related works we introduce the system goals and the corresponding system framework including the natural language markup language (NLML) to structurally label the grammar elements, natural language object model in Java (NLOMJ) to represent the grammatical elements, natural language database (NLDB) to store the historical discourse, and the communication response mechanism (CR) considering the context, the world model and the personality of the users and of the system itself comprehensively. Then we explain the pedagogical functions of this system in the learning of English as a foreign language, i.e. syntactically and semantically analyzing the English sentences given from the users via Internet, and synchronously, reasonably and adaptively responding to the users.

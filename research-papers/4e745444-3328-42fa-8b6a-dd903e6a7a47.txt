@@ -1,0 +1,6 @@
+title: Approximate proximity drawings
+year: 2011
+authors: ['William S. Evans', 'Emden R. Gansner', 'Michael Kaufmann', 'Giuseppe Liotta', 'Henk Meijer', 'Andreas Spillner']
+venue: graph drawing
+id: 4e745444-3328-42fa-8b6a-dd903e6a7a47
+abstract: We introduce and study a generalization of the well-known region of influence proximity drawings, called (e1 ,e2 )-proximity drawings. Intuitively, given a definition of proximity and two real numbers e1 ≥0 and e2 ≥0, an (e1 ,e2 )-proximity drawing of a graph is a planar straight-line drawing $#915; such that: (i) for every pair of adjacent vertices u,v, their proximity region "shrunk" by the multiplicative factor       $\frac{1}{1+\varepsilon_1}$    does not contain any vertices of $#915;; (ii) for every pair of non-adjacent vertices u,v, their proximity region "blown-up" by the factor (1+e2 ) contains some vertices of $#915; other than u and v. We show that by using this generalization, we can significantly enlarge the family of the representable planar graphs for relevant definitions of proximity drawings, including Gabriel drawings, Delaunay drawings, and β-drawings, even for arbitrarily small values of e1 and e2 . We also study the extremal case of (0,e2 )-proximity drawings, which generalizes the well-known weak proximity drawing model.

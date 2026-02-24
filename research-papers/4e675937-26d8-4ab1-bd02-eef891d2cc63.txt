@@ -1,0 +1,6 @@
+title: MOSTSM: a physically based charge conservative MOSFET model
+year: 1988
+authors: ['Hiroo Masuda', 'Yukio Aoki', 'Junichi Mano', 'O. Yamashiro']
+venue: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+id: 4e675937-26d8-4ab1-bd02-eef891d2cc63
+abstract: Charge-conservative CV models for the MOSFET can be classified into two categories: a depletion charge model, which is accurate but complex, and a simplified charge model, which is less accurate but is very simple. The accuracy of the latter model is investigated. The model error of C/sub BD/ and C/sub BS/ is found to be between 10 and 26 percent even in a long-channel MOSFET. The model of the bulk charge Q/sub B/ causes this error. A simple but accurate model for C/sub BD/ and C/sub BS/ is found, and a model named MOSTSM is developed. The model accuracy for a 0.8- mu m nMOSFET is investigated. CV model error is found to be less than 10%. This model has been implemented in a circuit simulator. >

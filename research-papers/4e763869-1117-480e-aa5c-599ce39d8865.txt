@@ -1,0 +1,6 @@
+title: Parallel Programmable Ethernet Controllers: Performance and Security
+year: 2007
+authors: ['Derek L. Schuff', 'Vijay S. Pai', 'Paul Willmann', 'Scott Rixner']
+venue: IEEE Network
+id: 4e763869-1117-480e-aa5c-599ce39d8865
+abstract: Programmable network interfaces can provide network servers with a flexible interface to high-bandwidth Ethernet links, but they face critical software and architectural challenges. This article explores architectural and software support for an efficient programmable 10 Gigabit Ethernet controller. The design is then extended to support a self-securing Gigabit Ethernet controller that performs intrusion detection on all network data frames. Both raw performance and security require high- bitrate frame data transfer, low-latency metadata access, and intensive computational capacity while still operating under the area, cost, and power budget of a peripheral device. These goals are achieved using a combination of parallel lightweight processing cores, an explicitly-partitioned memory system, and dedicated hardware assists. The firmware on the network interface is designed to utilize these resources efficiently by exploiting frame-level, flow-level, and task-level concurrency.

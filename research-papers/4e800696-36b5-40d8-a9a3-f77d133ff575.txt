@@ -1,0 +1,6 @@
+title: Iterative multi-user turbo-code receiver for DS-CDMA
+year: 2001
+authors: ['Dwayne Stienstra', 'Amir K. Khandani']
+venue: international conference on communications
+id: 4e800696-36b5-40d8-a9a3-f77d133ff575
+abstract: We prevent methods for the multi-user interference cancellation in a code division multiple access (CDMA) system where turbo codes are utilized for forward error correction (FEC). In the proposed methods, the individual users are decoded separately with the operation of iterative interference cancellation being mixed with the iterative decoding of turbo codes. This results in a modest increase in the overall complexity as compared to a conventional single user receiver utilizing turbo codes. Numerical results are presented showing that in the cases of practical interest for CDMA applications, the multiple access interference can be essentially removed at a reasonable level of complexity. These iterative decoders achieve a similar to better performance with a substantial reduction in the complexity as compared to similar previously known research works.

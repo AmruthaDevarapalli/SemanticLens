@@ -1,0 +1,6 @@
+title: New stability and stabilization conditions for systems with time-delay
+year: 2007
+authors: ['Yuanqing Xia', 'Guo-Ping Liu', 'Peng Shi', 'David Rees', 'E. J. C. Thomas']
+venue: International Journal of Systems Science
+id: 4e745210-bcc7-442d-80f6-11de108b49c1
+abstract: In this article, the problems of stability and stabilization for systems with both constant and time-varying delays have been considered. By the so-called lifting method, time-delay systems are transformed into delay-free systems such that simple necessary and sufficient conditions have been developed for the stability analysis of systems with constant delays. For systems with time-varying delays, they have been converted to a switched system so that the existing results can be applied to analyze the problems of stability and stabilization. Linear matrix inequality (LMI) approach has been employed to the state feedback control design. Numerical examples are given to show the effectiveness of the proposed technique.

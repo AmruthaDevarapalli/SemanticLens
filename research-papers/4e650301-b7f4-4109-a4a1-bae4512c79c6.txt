@@ -1,0 +1,6 @@
+title: SiGe HMODFET "KAIST" micropower model and amplifier realization
+year: 2004
+authors: ['A. Vilches', 'K. Fobelets', 'K. Michelakis', 'S. Despotopoulos', 'Christos Papavassiliou', 'T. Hackbarth', 'U. Konig']
+venue: IEEE Transactions on Circuits and Systems I-regular Papers
+id: 4e650301-b7f4-4109-a4a1-bae4512c79c6
+abstract: The recently published small-signal KAIST model is used successfully to fit the measured RF characteristics of a novel SiGe n-HMODFET device operating at micropower levels and extracted small-signal model parameters for this device under micropower operation are presented here for the first time. This model is then used to predict the performance of a simple micropower amplifier (sub 300-/spl mu/W total power consumption), realized in SiGe technology, and a comparison of modeled versus measured data is included.

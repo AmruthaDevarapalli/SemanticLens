@@ -1,0 +1,6 @@
+title: A characterization of balanced episturmian sequences
+year: 2007
+authors: ['Genevi eve Paquin', 'Laurent Vuillon']
+venue: Electronic Journal of Combinatorics
+id: 4ab3a4cf-1d96-4ce5-ab6f-b3e19fc260de
+abstract: It is well-known that Sturmian sequences are the non ultimately periodic sequences that are balanced over a 2-letter alphabet. They are also characterized by their complexity: they have exactly $(n+1)$ distinct factors of length $n$. A natural generalization of Sturmian sequences is the set of infinite episturmian sequences. These sequences are not necessarily balanced over a $k$-letter alphabet, nor are they necessarily aperiodic. In this paper, we characterize balanced episturmian sequences, periodic or not, and prove Fraenkel's conjecture for the special case of episturmian sequences. It appears that balanced episturmian sequences are all ultimately periodic and they can be classified in 3 families.

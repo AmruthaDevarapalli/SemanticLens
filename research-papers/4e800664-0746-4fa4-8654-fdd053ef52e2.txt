@@ -1,0 +1,6 @@
+title: Power-Safe Application of Transition Delay Fault Patterns Considering Current Limit during Wafer Test
+year: 2010
+authors: ['Wei Zhao', 'Junxia Ma', 'Mohammad Tehranipoor', 'Sreejit Chakravarty']
+venue: asian test symposium
+id: 4e800664-0746-4fa4-8654-fdd053ef52e2
+abstract: Large switching during launch-to-capture cycle in delay test not only negatively impacts circuit performance causing overkill, but could also burn tester probes due to the excessive current they must drive. It is necessary to develop a quick and effective method to evaluate each pattern, identify high-power ones considering functional and tester probes’ current limit and make the final pattern set power-safe. Compared with previous low-power methods that deal with scan structure modification or pattern filling techniques, the new proposed method takes into account layout information and resistance in power distribution network and can identify peak current among C4 power bumps. Post-processing steps replace power-unsafe patterns with low-power ones. The final pattern set provides considerable peak current reduction while fault coverage is maintained.

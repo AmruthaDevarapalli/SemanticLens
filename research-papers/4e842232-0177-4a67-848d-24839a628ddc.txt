@@ -1,0 +1,6 @@
+title: Designing for increased software maintainability
+year: 1997
+authors: ['Jun Han']
+venue: international conference on software maintenance
+id: 4e842232-0177-4a67-848d-24839a628ddc
+abstract: The recording and management of design rationales and design decisions are important issues in achieving better support for software maintenance. In the context of existing work on design rationale models, this paper introduces an approach to the integration of system design, design decisions and design rationales and the formalisation of design decisions in terms of software artifacts and their relationships. The relationships and properties characterising design decisions capture precisely the intent of these decisions, and can be checked and enforced to ensure that the decisions are followed and maintained in the actual development. We also show how the formalised design decisions can be used in better supporting software comprehension and maintenance
