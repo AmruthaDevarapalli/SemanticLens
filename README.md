@@ -2,6 +2,8 @@
 
 SemanticLens is a full-stack semantic search tool that lets you search through research papers using natural language queries. It uses a state-of-the-art vector embedding AI model to understand the meaning behind your queries and use vector search (cosine similarity) to find the most relevant papers.
 
+As a prototype, the repository has asbtracts of 50 research papers in the `research-papers` folder on top of which semantic search is performed.
+
 ![preview](assets/Screenshot%202026-03-17%20234936.png)
 
 ## 📝 Learnings & Challenges
